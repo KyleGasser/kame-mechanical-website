@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 160" role="img" aria-labelledby="title desc">
+<title id="title">KAME Mechanical</title>
+<desc id="desc">Black and white KAME Mechanical logo</desc>
+<rect width="620" height="160" rx="24" fill="#050505"/>
+<g transform="translate(26 25)">
+  <rect x="0" y="0" width="110" height="110" rx="18" fill="none" stroke="#ffffff" stroke-width="8"/>
+  <path d="M28 78 76 30M29 30l47 48" stroke="#ffffff" stroke-width="10" stroke-linecap="round"/>
+  <path d="M26 91h61" stroke="#777777" stroke-width="5" stroke-linecap="round"/>
+</g>
+<text x="165" y="72" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="56" font-weight="900" letter-spacing="5">KAME</text>
+<text x="168" y="118" fill="#a9a9a9" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="8">MECHANICAL</text>
+</svg>
